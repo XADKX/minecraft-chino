@@ -1,0 +1,80 @@
+.body_backgorund 
+{
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#T {
+	color: white;
+}
+#tutorial {
+	color: white;
+}
+#D {
+	color: white;
+}
+#L {
+	color: white;
+}
+#G {
+	color: white;
+}
+#W {
+	color: white;
+}
+#Y {
+	color: white;
+}
+#U {
+	color: white;
+}
+#R {
+	color: white;
+}
+#C {
+	color: white;
+}
+#shiftp {
+	color: white;
+}
+#shiftm {
+	color: white;
+}
+#B {
+	color: white;
+}
